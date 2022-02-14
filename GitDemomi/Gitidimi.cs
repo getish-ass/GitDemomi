@@ -8,5 +8,6 @@ namespace GitDemomi
 {
     internal class Gitidimi
     {
+        public int MyProperty { get; set; }
     }
 }
